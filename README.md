@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍃 Calculadora de Emissão de Carbono
 
 Uma aplicação web interativa para calcular a emissão de CO₂ de viagens entre cidades brasileiras e comparar diferentes modos de transporte.
@@ -166,3 +167,6 @@ Rafael - [GitHub](https://github.com/lirourafa-ai)
 ---
 
 **Desenvolvido com 💚 para um futuro mais sustentável**
+=======
+# calculadoradec02
+>>>>>>> origin/main
